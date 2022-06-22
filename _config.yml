@@ -40,7 +40,7 @@ author: Molly Ouma
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
 #
-copyright: " (cleft) 2022 Molly"
+copyright: " (cleft) {Author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
   I am a Fullstack Software Developer and I love it.
