@@ -24,7 +24,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Molly- Software Developer
+title: My Journey As a Full-Stack Developer
 email: princessmolly991@gmail.com.com
 author: Molly Ouma
 
@@ -40,7 +40,7 @@ author: Molly Ouma
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
 #
-copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
+copyright: "Unpublished Work (cleft) 2022-{currentYear} {Molly}"
 
 description: >- # this means to ignore newlines until "baseurl:"
   I am a Fullstack Software Developer and I love it.
